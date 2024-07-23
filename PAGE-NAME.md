@@ -1,3 +1,3 @@
 layout: page
 title: "lel"
-permalink: xxxxxxxxxxx
+permalink: https://kitthenyxara.github.io/#wow-such-empty
